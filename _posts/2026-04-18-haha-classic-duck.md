@@ -12,6 +12,8 @@ description: Reimagining the classic duck gif as smoke-free and compatible with 
 
 # Smoke-free classic duck
 
+![][0]
+
 ## The premise
 
 Emojis are a small part of my day-to-day work. They're quite a nice way to express yourself a little bit more than just typing words in chat apps and the like. Of course, there is time and place when one shouldn't use them, but for in-team discussions, I've found them quite neat.
@@ -111,6 +113,7 @@ Things that maybe should have been done differently:
 
 Now go and add the emoji to your workplace's ever-growing emoji collection, and enjoy the "haha, classic" moments in your life without having to think about smoking!
 
+[0]: /assets/images/classic-coffee/classic-coffee-header.jpg
 [1]: /assets/images/classic-coffee/original-classic-128x128.gif
 [2]: /assets/images/classic-coffee/unnecessary-accessories.jpg
 [3]: /assets/images/classic-coffee/making-of-select-hand.jpg
