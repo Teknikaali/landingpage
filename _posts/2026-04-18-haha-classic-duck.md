@@ -1,6 +1,6 @@
 ---
 title: "Smoke-free "Haha, classic" duck"
-image: assets/images/emoji/classic-coffee-header.jpg
+image: assets/images/classic-coffee/classic-coffee-header.jpg
 layout: post
 date: 2026-04-18 19:00
 tag:
