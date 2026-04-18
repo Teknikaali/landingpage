@@ -4,8 +4,8 @@ image: assets/images/classic-coffee/classic-coffee-header.jpg
 layout: post
 date: 2026-04-18 19:00
 tag:
-- blog
-category: creative
+- creative
+category: blog
 author: anssikettunen
 description: Reimagining the classic duck gif as smoke-free and compatible with chat apps
 ---
