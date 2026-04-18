@@ -45,6 +45,12 @@ With an idea in my head, some tools and too much time on my hands one late eveni
 - Transparent background: Must work well both in dark mode and ohmygodwhoburnedmyeyes mode
 - The coffee cup should move in the duck's hand and have a bit more pleasant "smoke" color
 
+## Tools used
+
+- [Paint.Net](https://www.getpaint.net/): There are many image and photo editing programs out there, but this is the one I'm most comfortable with. It doesn't have support for animated gifs out-of-the-box, but there should be relevant plugins available. Ezgif was sufficient enough for my needs.
+- [ImageMagick](https://imagemagick.org): This tool could do so much more. If you ever have to do some image processing e.g. crop/resize/format conversion during runtime in your app, this is the tool to look out for. I only used the CLI.
+- [Ezgif](https://ezgif.com/): a very handy online gif editing tool for things like cropping, resizing and optimizing the final output.
+
 ## The progress
 
 The whole project took me around 4 hours to finish.
@@ -87,12 +93,6 @@ magick.exe mogrify -path ./cropped -crop 472x472+7+40 ./source/*.png
 ```
 
 I had to add an empty `cropped` folder and put all the .png source frames into `source` folder for this to work.
-
-## Tools used
-
-- [Paint.Net](https://www.getpaint.net/): There are many image and photo editing programs out there, but this is the one I'm most comfortable with. It doesn't have support for animated gifs out-of-the-box, but there should be relevant plugins available. Ezgif was sufficient enough for my needs.
-- [ImageMagick](https://imagemagick.org): This tool could do so much more. If you ever have to do some image processing e.g. crop/resize/format conversion during runtime in your app, this is the tool to look out for. I only used the CLI.
-- [Ezgif](https://ezgif.com/): a very handy online gif editing tool for things like cropping, resizing and optimizing the final output.
 
 ## The final result
 
