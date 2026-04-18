@@ -114,15 +114,7 @@ After cropping was done I used Ezgif to resize the gif to 128x128 and then fiddl
 ![][8]{: .center-image }
 <figcaption class="caption">"Haha, classic" duck emoji, cigarette replaced with a coffee cup, 128x128</figcaption>
 
-## Afterthoughts
-
-Was this, in any way, a sensible project to take on? Not at all.
-
-Who would benefit reading this? I have no slightest idea.
-
-Was it still worth it? Absolutely.
-
-### Things that maybe should have been done differently:
+## Lessons learned
 
 - Take your time finding as high resolution version as you can of the gif you want to make modifications to. This way you have less artifacts to fight with.
 - Take a note if the animation's background is black or white, if you can't get a transparent one. It might affect how semi-transparent objects (or in my case: the steam) looks like.
@@ -134,7 +126,13 @@ Was it still worth it? Absolutely.
 - Use something else than Paint.Net for the editing task. It's a good piece of software, don't get me wrong, but just maybe not the most efficient tool for the job. Maybe one could have set up some vector drawing program or an actual gif editing program to do the job faster and more precise. Animation tweening tool would have helped a lot.
 - Could this kind of "simple" animation editing be done with an AI tool in a jiffy? Maybe.
 
-## The end
+## Afterthoughts
+
+Was this, in any way, a sensible project to take on? Not at all.
+
+Who would benefit reading this? I have no slightest idea.
+
+Was it still worth it? Absolutely.
 
 Now go, and add the emoji to your workplace's ever-growing emoji collection, and enjoy the "haha, classic" moments in your life without having to think about cigarettes, smoking and their negative impact on life every time something classic happens!
 
