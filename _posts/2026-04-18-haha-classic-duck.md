@@ -95,7 +95,7 @@ I had to add an empty `cropped` folder and put all the .png source frames into `
 ## The final result
 
 ![][8]{: .center-image }
-<figcaption class="caption">"Haha, classic" emoji cigarette replaced with a coffee cup, 128x128</figcaption>
+<figcaption class="caption">"Haha, classic" duck emoji, cigarette replaced with a coffee cup, 128x128</figcaption>
 
 ## Afterthoughts
 
