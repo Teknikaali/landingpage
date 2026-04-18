@@ -8,6 +8,7 @@ tag:
 category: blog
 author: anssikettunen
 description: Reimagining the classic duck gif as smoke-free and compatible with chat apps
+previous: hidden
 ---
 
 ![][0]
@@ -127,7 +128,7 @@ Was it still worth it? Absolutely.
 - Take your time finding as high resolution version as you can of the gif you want to make modifications to. This way you have less artifacts to fight with.
 - Take a note if the animation's background is black or white, if you can't get a transparent one. It might affect how semi-transparent objects (or in my case: the steam) looks like.
   - ![][9]
-  - You can also notice how the eyes are not as sharp on the right one (my version) as they're on the left one.
+  - You can also notice how the eyes are not as sharp on the right one (my version) as they're on the left one (the original). In the end it _shouldn't_ matter that much as the emoji is displayed as a tiny blob on the screen anyway. One could redo the whole work again, but ain't nobody got time for that.
 - [Apparently](https://graphicdesign.stackexchange.com/questions/113306/why-does-enabling-transparency-in-an-animated-gif-reduce-its-file-size), _enabling_ transparency when exporting a gif _reduces_ its file size. I got curious about this after realizing the smoke wasn't transparent in the source gif I used. I used the gif with the dark background available at [KnowYourMeme](https://knowyourmeme.com/memes/duck-smoking-gif).
 - Acquire the original source animation somehow so you could use the same (or similar) tooling the original author used. This is nigh impossible task I reckon. Would the original author make the source file available for use? Hardly.
 - Take a moment to look at the problem at hand (figuratively and literally) first before you put your hands in the clay. Would it have been easier to cut out a piece out of the coffee cup instead of bringing the hand in front of it? Maybe. But then I might have had to rotate the coffee cup at one point of the animation and handle _coffee physics_ inside the cup, so maybe the path I took was OK.
