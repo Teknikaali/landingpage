@@ -57,7 +57,7 @@ I didn't want the warm steam rising from the coffee remind too much of the smoke
 
 ![Recoloring the smoke][4] {: .center-image }
 
-There was a bit of uncertainty about whether I'd like to keep the original smoke-like shape of the steam, but in the end, I decided to keep it so I wouldn't deviate too much from the original work. In the process I, found out the Distort -> Dents effect tool could have made quite a nice steam-looking effect:
+There was a bit of uncertainty about whether I'd like to keep the original smoke-like shape of the steam, but in the end, I decided to keep it so I wouldn't deviate too much from the original work. In the process, I found out the Distort -> Dents effect tool could have made quite a nice steam-looking effect:
 
 ![Denting the steam][5] {: .center-image }
 
