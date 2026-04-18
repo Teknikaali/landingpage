@@ -8,6 +8,7 @@ tag:
 category: blog
 author: anssikettunen
 description: Opas kuinka tehdä Windows-työpöytäsovellus käyttäen WPF, XAML ja C#. Tässä osassa laskuriin lisätään sukupuolen valinta.
+previous: hidden
 ---
 
 ## Toiminnon haasteet

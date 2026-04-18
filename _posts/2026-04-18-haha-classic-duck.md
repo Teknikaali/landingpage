@@ -8,7 +8,6 @@ tag:
 category: blog
 author: anssikettunen
 description: Reimagining the classic duck gif as smoke-free and compatible with chat apps
-previous: hidden
 ---
 
 ![][0]
