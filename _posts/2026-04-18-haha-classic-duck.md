@@ -27,7 +27,7 @@ The mouth movement, shaking of the head, and the expression on the duck's face a
 
 I don't smoke and I don't advocate smoking, because it is [bad for your health](https://www.cdc.gov/tobacco/about/index.html) and for people around you.
 
-The duck has a smoking cigarette in its hand. I don't need to be reminded of the act of smoking every time nor see that each day, thank you.
+The duck has a smoking cigarette in its hand. I don't need to be reminded of the act of smoking every time nor see that each day.
 
 I tried searching for alternative versions, but I couldn't find anything that would please me.
 
