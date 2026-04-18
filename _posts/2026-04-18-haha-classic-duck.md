@@ -1,5 +1,5 @@
 ---
-title: "Smoke-free "Haha, classic" duck"
+title: "Smoke-free classic duck"
 image: assets/images/classic-coffee/classic-coffee-header.jpg
 layout: post
 date: 2026-04-18 19:00
@@ -10,7 +10,7 @@ author: anssikettunen
 description: Reimagining the classic duck gif as smoke-free and compatible with chat apps
 ---
 
-# Smoke-free "Haha, classic" duck
+# Smoke-free classic duck
 
 ## The premise
 
