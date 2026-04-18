@@ -51,7 +51,7 @@ The whole project took me around 4 hours to finish.
 
 I had to take out one "head bobbing" cycle to fit the animation into 50 frames. There were a total of 55 frames, so 5 had to go. Losing one cycle was a small sacrifice I was willing to take without losing too much of the charm of the original animation.
 
-The most time-consuming part was bringing the duck's hand inf front of the coffee cup. Editing each frame of the 50 was a bit cumbersome, but doable.
+The most time-consuming part was bringing the duck's hand in front of the coffee cup. Editing each frame of the 50 was a bit cumbersome, but doable.
 
 ![][3]{: .center-image }
 <figcaption class="caption">Bringing the hand in front of the cup</figcaption>
