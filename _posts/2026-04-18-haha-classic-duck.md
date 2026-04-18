@@ -4,7 +4,7 @@ image: assets/images/emoji/classic-coffee-header.jpg
 layout: post
 date: 2026-04-18 19:00
 tag:
-- emoji
+- blog
 category: creative
 author: anssikettunen
 description: Reimagining the classic duck gif as smoke-free and compatible with chat apps
