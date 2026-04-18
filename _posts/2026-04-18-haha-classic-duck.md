@@ -2,7 +2,7 @@
 title: "Smoke-free classic duck"
 image: assets/images/classic-coffee/classic-coffee-header.jpg
 layout: post
-date: 2026-04-18 19:00
+date: 2026-04-18 10:00
 tag:
 - creative
 category: blog
