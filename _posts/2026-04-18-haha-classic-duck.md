@@ -47,6 +47,8 @@ With an idea in my head, some tools and too much time on my hands one late eveni
 
 ## The progress
 
+The whole project took me around 4 hours to finish.
+
 I had to take out one "head bobbing" cycle to fit the animation into 50 frames. There were a total of 55 frames, so 5 had to go. Losing one cycle was a small sacrifice I was willing to take without losing too much of the charm of the original animation.
 
 The most time-consuming part was bringing the duck's hand inf front of the coffee cup. Editing each frame of the 50 was a bit cumbersome, but doable.
@@ -107,9 +109,9 @@ Things that maybe should have been done differently:
 
 - Acquire the original source animation somehow so you could use the same (or similar) tooling the original author used. This is nigh impossible task I reckon. Would the original author really make the source file available for use? Hardly. Who really knows who makes all these gifs anyway? I wouldn't even know where to start looking because of "[I made this](https://knowyourmeme.com/memes/i-made-this)".
 - Use something else than Paint.Net for the editing part. It's a good piece of software, don't get me wrong, but just maybe not the most efficient tool for the job. Maybe one could have set up some vector drawing program or an actual gif editing program to do the job faster and more precise. Animation tweening tool would have helped a lot.
-- Maybe don't go out of your way and write a huge blog post about how you edited some random gif you found out a little bit irritating in your day-to-day life. Do something more meaningful with your life. Call your loved ones and tell them you love them or something.
+- Maybe don't go out of your way and write a blog post about how you edited some random gif you found out a little bit irritating in your day-to-day life. Or actually: Go and do just that. If it's something you want to do and it makes you happy, why not?
 
-Now go and add the emoji to your workplace's ever-growing emoji collection, and enjoy the "haha, classic" moments in your life without having to think about smoking!
+Now go, and add the emoji to your workplace's ever-growing emoji collection, and enjoy the "haha, classic" moments in your life without having to think about smoking!
 
 [0]: /assets/images/classic-coffee/classic-coffee-header.jpg
 [1]: /assets/images/classic-coffee/original-classic-128x128.gif
