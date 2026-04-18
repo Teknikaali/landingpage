@@ -18,7 +18,7 @@ Emojis are a small part of my day-to-day work. They're quite a nice way to expre
 
 Here is one custom animated emoji that gets used every now and then: the "Haha, classic" duck:
 
-![][1] {: .center-image }
+![][1]{: .center-image }
 <figcaption class="caption">The original "Haha, classic" duck</figcaption>
 
 The mouth movement, shaking of the head, and the expression on the duck's face are just \*chef kiss\*. But it has one problem that has irritated me for a while now.
@@ -33,7 +33,7 @@ I tried searching for alternative versions, but I couldn't find anything that wo
 
 [Tenor](https://tenor.com/search/haha-classic-duck-gifs) had quite the selection, but nothing caught my eye as "the solution". There was always something wrong with the animation e.g. unnecessary added clothing, accessories, or the gif just wasn't suitable for messaging app emoji usage: file size too big, too many frames, missing transparency, bad aspect ratio... you name it.
 
-![][2] {: .center-image }
+![][2]{: .center-image }
 <figcaption class="caption">Unnecessary accessories</figcaption>
 
 ## The solution
@@ -51,27 +51,27 @@ I had to take out one "head bobbing" cycle to fit the animation into 50 frames. 
 
 The most time-consuming part was bringing the duck's hand inf front of the coffee cup. Editing each frame of the 50 was a bit cumbersome, but doable.
 
-![][3] {: .center-image }
+![][3]{: .center-image }
 <figcaption class="caption">Bringing the hand in front of the cup</figcaption>
 
 I didn't want the warm steam rising from the coffee remind too much of the smoke. First I recolored the gray smoke to something a bit warmer. Since coffee is brown, of course the animated steam should also be brown (if you squint your eyes a little bit).
 
-![][4] {: .center-image }
+![][4]{: .center-image }
 <figcaption class="caption">Recoloring the smoke</figcaption>
 
 There was a bit of uncertainty about whether I'd like to keep the original smoke-like shape of the steam, but in the end, I decided to keep it so I wouldn't deviate too much from the original work. In the process, I found out the Distort -> Dents effect tool could have made quite a nice steam-looking effect:
 
-![][5] {: .center-image }
+![][5]{: .center-image }
 <figcaption class="caption">Denting the steam</figcaption>
 
-![][6] {: .center-image }
+![][6]{: .center-image }
 <figcaption class="caption">What-it-could-have-been</figcaption>
 
 I had to make some minor corrections to the frames here and there. The animation had originally a black solid background that had to be converted into transparent. This caused the eyes to disappear. Some pixels were missing, so I had to go and add those in before using the fill tool for the eyes.
 
 Some small touch-ups had to be done in frames 46 and 47 because the "haha, classic" text had its letters move vertically in sync with the mouth, partly covering the smoke.
 
-![][7] {: .center-image }
+![][7]{: .center-image }
 <figcaption class="caption">Touch-ups</figcaption>
 
 Emojis are quite small. Even smaller, if you don't crop the canvas correctly and leave too much white space around the thing we're interested in.
