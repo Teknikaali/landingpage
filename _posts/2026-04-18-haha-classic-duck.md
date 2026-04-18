@@ -10,8 +10,6 @@ author: anssikettunen
 description: Reimagining the classic duck gif as smoke-free and compatible with chat apps
 ---
 
-# Smoke-free classic duck
-
 ![][0]
 
 ## The premise
