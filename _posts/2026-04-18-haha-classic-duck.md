@@ -137,6 +137,8 @@ Now go, and add the emoji to your workplace's ever-growing emoji collection, and
 
 I just might have done that.
 
+![][8]{: .center-image }
+
 [0]: /assets/images/classic-coffee/classic-coffee-header.jpg
 [1]: /assets/images/classic-coffee/original-classic-128x128.gif
 [2]: /assets/images/classic-coffee/unnecessary-accessories.jpg
