@@ -130,8 +130,6 @@ After cropping was done I used Ezgif to resize the gif to 128x128 and then fiddl
 
 Was this, in any way, a sensible project to take on? Not at all.
 
-Who would benefit reading this? I have no slightest idea.
-
 Was it still worth it? Absolutely.
 
 Now go, and add the emoji to your workplace's ever-growing emoji collection, and enjoy the "haha, classic" moments in your life without having to think about cigarettes, smoking and their negative impact on life every time something classic happens!
