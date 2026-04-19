@@ -80,9 +80,6 @@ I didn't want the warm steam rising from the coffee remind too much of the smoke
 
 There was a bit of uncertainty about whether I'd like to keep the original smoke-like shape of the steam, but in the end, I decided to keep it so I wouldn't deviate too much from the original work. In the process, I found out the Distort -> Dents effect tool could have made quite a nice steam-looking effect:
 
-![][5]{: .center-image }
-<figcaption class="caption">Denting the steam</figcaption>
-
 ![][6]{: .center-image }
 <figcaption class="caption">What-it-could-have-been</figcaption>
 
@@ -145,7 +142,6 @@ I just might have done that.
 [2]: /assets/images/classic-coffee/unnecessary-accessories.jpg
 [3]: /assets/images/classic-coffee/making-of-select-hand.jpg
 [4]: /assets/images/classic-coffee/making-of-steam.jpg
-[5]: /assets/images/classic-coffee/making-of-dents.jpg
 [6]: /assets/images/classic-coffee/making-of-dents.gif
 [7]: /assets/images/classic-coffee/touch-ups.jpg
 [8]: /assets/images/classic-coffee/classic-coffee-128x128.gif
