@@ -64,6 +64,10 @@ The most time-consuming step was bringing the duck's hand in front of the coffee
 
 Before I could work with the hand part, I had to cut the cigarette and the smoke to their own layer to make things easier. It went smoothly by using the Magic Wand tool with quite specific Tolerance setting as it had different colors than the duck. For some other gif this could be a whole different story.
 
+The cup was just a simple shape with some brown added for coffee. I tried to get the cup's style match with the duck's with thick outlining and brownish color. The curved bottom of the cup aligns with the shape of the duck quite nicely I think.
+
+![][10]{: .center-image }
+
 For each frame I selected the part of the hand that was going to overlap the cup, copied it to a new layer and saved the image as .pdn (Paint.Net format) to preserve the layers. Sometimes the selection I did took too much of the area outside the hand's border line, but it was easily fixed.
 
 ![][3]{: .center-image }
@@ -146,3 +150,4 @@ I just might have done that.
 [7]: /assets/images/classic-coffee/touch-ups.jpg
 [8]: /assets/images/classic-coffee/classic-coffee-128x128.gif
 [9]: /assets/images/classic-coffee/light-dark-difference.jpg
+[10]: /assets/images/classic-coffee/cup.jpg
